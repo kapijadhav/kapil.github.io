@@ -6,10 +6,10 @@ Python, SQL, Machine Learning, Natural Language Processing, Deep Learning, Stati
 ## Education
 - Bachelor's of Civil Engineering | Dr. D Y Patil School of Engineering | 2018
 - Diploma in Civil Engineering | Revera Institute of Technology | 2015
-- SSC | Shivaji Vidyalay | 2012
+- Secondary School Education | Shivaji Vidyalay | 2012
 
 ## Work Experience
-Data Scientist @ ITC Infotech (_April 2021 - Present_)
+#### Data Scientist @ ITC Infotech (_April 2021 - Present_)
 - A professional with experience in Python, Data Science and Machine learning with expertise in Financial and Healthcare domain projects.
 - Able to investigate Data Visualization and summarization techniques conveying key findings.
 - Communicates findings and obstacles to team members to achieve best approach.
@@ -21,7 +21,7 @@ Data Scientist @ ITC Infotech (_April 2021 - Present_)
 - Learning new technologies like Deep Learning, Text extraction from images and PDF, Power BI.
 
 ## projects
-### Developing an advanced data-driven system for mortgage Fraud detection and credit risk management.
+### Project 1: Developing an advanced data-driven system for mortgage Fraud detection and credit risk management.
 
 - Understand the Problem statement & Domain, and collect necessary information. Assist in data collection with the help of AWS S3 Bucket, start Data Analysis, Data Wrangling and Draw Conclusions.
 - perform EDA like Univariate, Multivariate analysis by Pandas, Numpy, Matplotlib, Seaborn libraries. check correlation.
@@ -31,7 +31,7 @@ Data Scientist @ ITC Infotech (_April 2021 - Present_)
 - Create Web Framework with Flask and check model. use Postman for Testing.
 - Actively Participate in Daily/Weekly status calls. Collaborate with seniors, Implement various Techniques under their guidance.
 
-### Advanced NLP Techniques for Pharmacovigilance: Uncovering Customer Sentiments and Root Causes of Adverse Drug Events
+### Project 2: Advanced NLP Techniques for Pharmacovigilance: Uncovering Customer Sentiments and Root Causes of Adverse Drug Events
 
 - Collect data from Surveys, Google Forms, Reviews, Feedbacks.
 - detect Language & Translate in English, convert in lower case with normalization then initial preprocessing is done.
